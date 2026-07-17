@@ -1,2 +1,2 @@
-l = "Playing with Git from JD branch including now RH branch"
+l = "Playing with Git from JD branch within a checkout"
 print(l)
